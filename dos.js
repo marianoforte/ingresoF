@@ -12,8 +12,10 @@ c)la marca del más barato de los sólidos
   let precio;
   let peso;
   let tipo;
-  let precioLiquidoCaro = 0;
-  let precioSolidoBarato = 0;
+  let precioLiquidoCaro;
+  let precioSolidoBarato;
+  let marcaLiquidoCaro;
+  let marcaSolidoBarato;
   let acumPeso = 0;
   let continuar;
   let flag1 = 0;
